@@ -1,0 +1,67 @@
+# operators in python:
+# arithmetic operators (+, -, //)
+# membership operators (in, not)
+# comparison operators (>, <, <=)
+# bitwise operators ($)
+# identity operators (is, not)
+# logical operators (and, not. or)
+
+
+# different flows of python programs:
+# sequential statements:
+#     just gets executed line by line... kinda simulated
+
+# conditional statements:   
+#     basically the if else
+
+# looping constructs:
+#     has two subsidaries(for/while)
+
+# different elements of a python program:
+#     indentations
+#     calling a function
+#     defining a function
+#     statements
+#     expressions
+#     blocks
+#     comments
+
+# various data types of python:
+#     numbers:
+#         int, float, bool, complex nos.
+#     sequences:
+#         str, list, tuple
+#     None:
+#         Substantially has no value tagged to it
+#     mappings:
+#         dictionary
+#     sets:
+#         self explanatory.. its a set.
+
+# mutable & immutable types:
+#     datatypes that can be modified. as is.. those which can be updated, deleted are addressed as immutable datatypes
+#     eg:- tuple, str
+
+#     ndatatypes that are the vice versa to the top ^ are known as mutable datatypes
+#     eg:- int, list, dictionary, sets, float
+
+#eval() functions turns any input or elements provided to it into a legitimate data type if possible else would return a string... moreover the input gotta be in string
+
+
+# -> type casting or explicit conversion is a phenomenon of swapping the data types of a element to another manually or explicitly by an user.. ex:- str(12)->'12', int(1.43)  1, float(1) -> 1.0 
+# -> coercion or implicit conversion genre is automatically professed... typically an automated process inherited by the python intrepreter which turn the data type of an element to another as per the reqirements automatically. perhaps coz it has been prebuilt by pip official members.. ex(4+4.05(int)-> 8.05(float))
+
+# tokens in python:
+#     identifiers a.k.a variables
+#     keywords:- reservered word by or for pytyhon intrpreter which is not precribed to use as a variable name or a function name
+#     literalls:- the data or the element
+#     puctuators:- [], (), and symbols or used in python
+#     operators:- +, -, <= and etc.
+
+
+#IDLE = Intergrated Development Learning enviroment.. installed by default when python is processed
+#IDE = Intergrated Development Enviroment
+#multipling strings.. aka 
+#addition of strings.. aka string-concatenation
+
+
