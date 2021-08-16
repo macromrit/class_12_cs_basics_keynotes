@@ -45,7 +45,7 @@
 #     ndatatypes that are the vice versa to the top ^ are known as mutable datatypes
 #     eg:- int, list, dictionary, sets, float
 
-#eval() functions turns any input or elements provided to it into a legitimate data type if possible else would return a string... moreover the input gotta be in string
+#eval() functions turns any input or elements provided to it into a legitimate data type if possible else would throw error... moreover the input gotta be in string
 
 
 # -> type casting or explicit conversion is a phenomenon of swapping the data types of a element to another manually or explicitly by an user.. ex:- str(12)->'12', int(1.43)  1, float(1) -> 1.0 
