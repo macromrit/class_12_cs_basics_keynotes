@@ -40,10 +40,10 @@
 
 # mutable & immutable types:
 #     datatypes that cannot be modified. as is.. those which cannot be updated, deleted are addressed as immutable datatypes
-#     eg:- tuple, str
+#     eg:- tuple, str, int, float
 
 #     ndatatypes that are the vice versa to the top ^ are known as mutable datatypes
-#     eg:- int, list, dictionary, sets, float
+#     eg:- list, dictionary, sets
 
 #eval() functions turns any input or elements provided to it into a legitimate data type if possible else would throw error... moreover the input gotta be in string
 
