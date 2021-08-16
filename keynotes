@@ -39,7 +39,7 @@
 #         self explanatory.. its a set.
 
 # mutable & immutable types:
-#     datatypes that can be modified. as is.. those which can be updated, deleted are addressed as immutable datatypes
+#     datatypes that cannot be modified. as is.. those which cannot be updated, deleted are addressed as immutable datatypes
 #     eg:- tuple, str
 
 #     ndatatypes that are the vice versa to the top ^ are known as mutable datatypes
