@@ -4,7 +4,7 @@
 # comparison operators (>, <, <=)
 # bitwise operators ($)
 # identity operators (is, not)
-# logical operators (and, not. or)
+# logical operators (and, not, or)
 
 
 # different flows of python programs:
