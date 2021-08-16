@@ -3,7 +3,7 @@
 # membership operators (in, not)
 # comparison operators (>, <, <=)
 # bitwise operators ($)
-# identity operators (is, not)#two check memory location between 2 or more elements
+# identity operators (is, is not)#two check memory location between 2 or more elements
 # logical operators (and, not, or)
 
 
