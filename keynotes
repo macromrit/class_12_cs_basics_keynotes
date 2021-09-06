@@ -79,3 +79,8 @@ Operators	-> Meaning
 not		-> Logical NOT
 and		-> Logical AND
 or		-> Logical OR
+-----------------------------------------------------------------------------------------------------
+
+string's:
+  ->concatenation = addition of strings
+  ->replication or multiplication = multiplication of strings
