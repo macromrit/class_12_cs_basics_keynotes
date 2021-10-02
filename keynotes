@@ -83,3 +83,11 @@ or		-> Logical OR
 string's:
   ->concatenation = addition of strings
   ->replication or multiplication = multiplication of strings
+#multiple list comprehension->
+x=[
+  (x,y,z) 
+  for x in range(2)
+      for y in range(2)
+          for z in range(2)
+]
+
