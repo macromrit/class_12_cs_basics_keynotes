@@ -1,3 +1,5 @@
+all operators except ** works from right to left with precedence.. but ** works from left to right
+
 # operators in python:
 # arithmetic operators (+, -, //)
 # membership operators (in, not)
