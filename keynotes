@@ -2,7 +2,7 @@ all operators except ** works from left to right with precedence.. but ** works 
 
 # operators in python:
 # arithmetic operators (+, -, //)
-# membership operators (in, not)
+# membership operators (in, not in)
 # comparison operators (>, <, <=)
 # bitwise operators ($)
 # identity operators (is, is not)#two check memory location between 2 or more elements
