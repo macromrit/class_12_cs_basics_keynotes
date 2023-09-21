@@ -1,4 +1,4 @@
-all operators except ** works from right to left with precedence.. but ** works from left to right
+all operators except ** works from left to right with precedence.. but ** works from right to left
 
 # operators in python:
 # arithmetic operators (+, -, //)
